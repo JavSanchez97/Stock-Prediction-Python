@@ -2,3 +2,4 @@ yfinance
 streamlit
 pystan==2.19.1.1
 prophet
+plotly
